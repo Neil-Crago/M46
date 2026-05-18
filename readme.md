@@ -42,9 +42,9 @@ The absence of integer midpoints between primes eliminates symmetric superpositi
 
 The model replaces stochastic wave‑function collapse with a **nearest‑anchor minimization rule**:
 
-\[
-P^\* = \arg\min_{p\in M_{46}} |x - p|
-\]
+$$
+P^{*} = \arg\min_{p \in M_{46}} \lvert x - p \rvert
+$$
 
 This yields a unique, computable final state for any geometric‑phase coordinate.
 
