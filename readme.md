@@ -1,6 +1,6 @@
 # **Deterministic Resolution of the Quantum State via a Discrete Prime‑Indexed Manifold**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20270178.svg)](https://doi.org/10.5281/zenodo.20270178)
 
 This repository contains the source files, manuscript, and supplemental materials for:
 
@@ -109,7 +109,7 @@ If you use this work in academic research, please cite:
 
 **Crago, N. (2026). _Deterministic Resolution of the Quantum State via a Discrete Prime‑Indexed Manifold_. SpaceTCO.**
 
-(You can add a BibTeX entry here if you want.)
+**doi:** DOI: 10.5281/zenodo.20270178
 
 ---
 
