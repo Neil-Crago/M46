@@ -2,6 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20270178.svg)](https://doi.org/10.5281/zenodo.20270178)
 
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20270178-blue.svg)](https://doi.org/10.5281/zenodo.20270178)
+
 This repository contains the source files, manuscript, and supplemental materials for:
 
 **_Deterministic Resolution of the Quantum State via a Discrete Prime‑Indexed Manifold_**  
