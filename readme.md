@@ -1,12 +1,11 @@
 # **Deterministic Resolution of the Quantum State via a Discrete Prime‑Indexed Manifold**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20270178.svg)](https://doi.org/10.5281/zenodo.20270178)
-
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20270178-blue.svg)](https://doi.org/10.5281/zenodo.20270178)
 
 This repository contains the source files, manuscript, and supplemental materials for:
 
 **_Deterministic Resolution of the Quantum State via a Discrete Prime‑Indexed Manifold_**  
+
 **Author:** Neil Crago (SpaceTCO)  
 **Date:** May 16, 2026
 
@@ -20,7 +19,6 @@ Standard quantum mechanics represents physical states using a continuous complex
 This project introduces a deterministic alternative based on a **triadic state vector**:
 
 $S(A) = (T_{\mathrm{total}},\,E_{\mathrm{grid}},\,\phi_{\mathrm{geom}})$
-
 
 where:
 
