@@ -17,9 +17,8 @@ The work proposes a deterministic substrate beneath the standard quantum wave fu
 Standard quantum mechanics represents physical states using a continuous complex amplitude.  
 This project introduces a deterministic alternative based on a **triadic state vector**:
 
-\[
-S(A) = (T_{\mathrm{total}},\,E_{\mathrm{grid}},\,\phi_{\mathrm{geom}})
-\]
+$S(A) = (T_{\mathrm{total}},\,E_{\mathrm{grid}},\,\phi_{\mathrm{geom}})$
+
 
 where:
 
@@ -120,3 +119,13 @@ For questions, collaboration, or discussion:
 **Author:** Neil Crago  
 **Affiliation:** SpaceTCO  
 **Location:** Bury St Edmunds, UK  
+
+## **Related Papers**
+
+- [A Bipartite Tensor Instruction Set Architecture (ISA) for Deterministic Consensus and Thermal Efficiency in High-Performance Computing](https://github.com/Neil-Crago/lcc/blob/master/peerj.pdf)
+
+- [Linear Comglomerate Calculus - Specification](https://github.com/Neil-Crago/lcc/blob/master/docs/LCC_Full_Spec_v12.pdf)
+
+- [Linear Conglomerate calculus - Repository](https://github.com/Neil-Crago/lcc)
+
+- [SpaceTCO Architecture - Repository](https://github.com/Neil-Crago/spacetco_2)
